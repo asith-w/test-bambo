@@ -23,7 +23,9 @@
             app.showNotification('The current subject is', result.value)
         });
     }
-
+//
+//
+//
     function addToRecipients() {
         var item = Office.context.mailbox.item;
         var addressToAdd = {
